@@ -1,0 +1,316 @@
+<html>
+<head>
+<title>HACKED BY MARGUS </title>
+<link href=\"https://fonts.googleapis.com/css?family=Amiko\" rel=\"stylesheet\"> 
+<link href=\"https://fonts.googleapis.com/css?family=Ubuntu\" rel=\"stylesheet\"> 
+<meta name=\"Description\" content=\"HACKED BY X-GLITCH \">
+<meta name=\"keyword\" content=\"HACKED BY X-GLITCH\">
+<meta name=\"googlebot\" content=\"index,follow\"> 
+<meta name=\"robots\" content=\"all\"> 
+<meta name=\"robots schedule\" content=\"auto\"> 
+<meta name=\"distribution\" content=\"global\"> 
+<meta property=\"og:title\" content=\"WEBSITE HACKED BY MARGUS \">
+   <style type=\"text/css\">body, a, a:link{cursor:url(https://www.iconfinder.com/data/icons/hands-2/100/hands-14-512.png), default;} a:hover {cursor:url(http://i.hizliresim.com/7qMrQ5.png),wait;}
+img {	
+	onmousedown:stop;
+animation-name: rotate ;
+animation-duration: 5s;
+animation-play-state: running;
+animation-timing-function: linear;
+animation-iteration-count: infinite;
+opacity: 1.0;filter: alpha(opacity=50);} img:hover {opacity: 1.0;filter: alpha(opacity=100);}
+@keyframes rotate{
+10% {transform:rotateY(36deg)}
+20% {transform:rotateY(72deg)}
+30% {transform:rotateY(108deg)}
+40% {transform:rotateY(144deg)}
+50% {transform:rotateY(180deg)}
+60% {transform:rotateY(216deg)}
+70% {transform:rotateY(252deg)}
+80% {transform:rotateY(288deg)}
+90% {transform:rotateY(324deg)}
+100% {transform:rotateY(360deg)}
+}
+	  
+</style>
+<link href=\"https://fonts.googleapis.com/css?family=Jura\" rel=\"stylesheet\">
+<script type=\"text/javascript\">
+var snowmax=35
+var snowcolor=new Array(\"#AAAACC\",\"#DDDDFF\",\"#CCCCDD\",\"#F3F3F3\",\"#F0FFFF\")
+var snowtype=new Array(\"Arial Black\",\"Arial Narrow\",\"Times\",\"Comic Sans MS\")
+var snowletter=\"*\"
+var sinkspeed=0.6
+var snowmaxsize=22
+var snowminsize=8
+var snowingzone=1
+
+/* Berandal | OWL SQUAD
+Jangan edit2 dibawah ini &#195;°&#197;&#184;&#203;&#339;&#226;€&#732; */
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent 
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)  
+var browserok=ie5||ns6||opera
+function randommaker(range) {
+rand=Math.floor(range*Math.random())
+return rand
+}
+function initsnow() {
+if (ie5 || opera) {
+marginbottom = document.body.clientHeight
+marginright = document.body.clientWidth
+}
+else if (ns6) {
+marginbottom = window.innerHeight
+marginright = window.innerWidth
+}
+var snowsizerange=snowmaxsize-snowminsize
+for (i=0;i<=snowmax;i++) {
+crds[i] = 0;                      
+lftrght[i] = Math.random()*15;         
+x_mv[i] = 0.03 + Math.random()/10;
+snow[i]=document.getElementById(\"s\"+i)
+snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+snow[i].size=randommaker(snowsizerange)+snowminsize
+snow[i].style.fontSize=snow[i].size
+snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+snow[i].sink=sinkspeed*snow[i].size/5
+if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+snow[i].style.left=snow[i].posx
+snow[i].style.top=snow[i].posy
+}
+movesnow()
+}
+function movesnow() {
+for (i=0;i<=snowmax;i++) {
+crds[i] += x_mv[i];
+snow[i].posy+=snow[i].sink
+snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+snow[i].style.top=snow[i].posy
+if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+snow[i].posy=0
+}
+}
+var timer=setTimeout(\"movesnow()\",50)
+}
+for (i=0;i<=snowmax;i++) {
+document.write(\"<span id=\'s\"+i+\"\' style=\'position:absolute;top:-\"+snowmaxsize+\"\'>\"+snowletter+\"</span>\")
+}
+if (browserok) {
+window.onload=initsnow
+}
+</script>
+</head>
+<script data-type=\"injected\" src=\"//technologiemounac.com/addon/script/content_site?integration=anywhere&v=n11.12.1.190&os_mj=6&os_mn=1&os_bitness=32&mid=21659ccf0e9d8a4732812664aaa034b7&uid=D26CFF32B4EDFEF8F6E137C0886C258D&aid=4772&aid2=none&ts=1481879889&ts2=&psd=true\">
+</script>
+</head>
+<style>
+
+         body {
+         background	: black;
+         background-image: url(https://image.ibb.co/mKra4b/Pics_Art_12_10_11_55_08.jpg);
+         background-repeat:no-repeat;
+         background-attachment: fixed;
+         background-size: 1350px;
+         font-family	: Courier new;
+         text-align	: center;
+         color		: #fff;
+         }
+         pre {
+         margin-top: 9%;
+         }
+
+
+
+.error {
+  text-align: center;
+  font-family: \'Gilda Display\', serif;
+  -webkit-animation: noise-3 1s linear infinite;
+          animation: noise-3 1s linear infinite;
+  overflow: default;
+}
+
+
+.info {
+  text-align: center;
+  width: 200px;
+  height: 60px;
+  margin: auto;
+  position: absolute;
+  top: 280px;
+  bottom: 0;
+  left: 20px;
+  right: 0;
+  -webkit-animation: noise-3 1s linear infinite;
+          animation: noise-3 1s linear infinite;
+}
+
+
+.info:after {
+  content: \'OWNED\';
+  font-family: OCR-A;
+  font-size: 100px;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  position: absolute;
+  top: 20px;
+  bottom: 0;
+  left: 40px;
+  right: 0;
+  opacity: 0;
+  color: white;
+  -webkit-animation: noise-1 .2s linear infinite;
+          animation: noise-1 .2s linear infinite;
+}
+
+@-webkit-keyframes noise-1 {
+  0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;}
+  10% {opacity: .1;}
+  50% {opacity: .5; left: -6px;}
+  80% {opacity: .3;}
+  100% {opacity: .6; left: 2px;}
+}
+
+@keyframes noise-1 {
+  0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;}
+  10% {opacity: .1;}
+  50% {opacity: .5; left: -6px;}
+  80% {opacity: .3;}
+  100% {opacity: .6; left: 2px;}
+}
+
+@-webkit-keyframes noise-2 {
+  0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;}
+  10% {opacity: .1;}
+  50% {opacity: .5; left: 6px;}
+  80% {opacity: .3;}
+  100% {opacity: .6; left: -2px;}
+}
+
+@keyframes noise-2 {
+  0%, 20%, 40%, 60%, 70%, 90% {opacity: 0;}
+  10% {opacity: .1;}
+  50% {opacity: .5; left: 6px;}
+  80% {opacity: .3;}
+  100% {opacity: .6; left: -2px;}
+}
+
+@-webkit-keyframes noise {
+  0%, 3%, 5%, 42%, 44%, 100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);}  
+  4.3% {opacity: 1; -webkit-transform: scaleY(1.7); transform: scaleY(1.7);}
+  43% {opacity: 1; -webkit-transform: scaleX(1.5); transform: scaleX(1.5);}
+}
+
+@keyframes noise {
+  0%, 3%, 5%, 42%, 44%, 100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);}  
+  4.3% {opacity: 1; -webkit-transform: scaleY(1.7); transform: scaleY(1.7);}
+  43% {opacity: 1; -webkit-transform: scaleX(1.5); transform: scaleX(1.5);}
+}
+
+@-webkit-keyframes noise-3 {
+  0%,3%,5%,42%,44%,100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);}
+  4.3% {opacity: 1; -webkit-transform: scaleY(4); transform: scaleY(4);}
+  43% {opacity: 1; -webkit-transform: scaleX(10) rotate(60deg); transform: scaleX(10) rotate(60deg);}
+}
+
+@keyframes noise-3 {
+  0%,3%,5%,42%,44%,100% {opacity: 1; -webkit-transform: scaleY(1); transform: scaleY(1);}
+  4.3% {opacity: 1; -webkit-transform: scaleY(4); transform: scaleY(4);}
+  43% {opacity: 1; -webkit-transform: scaleX(10) rotate(60deg); transform: scaleX(10) rotate(60deg);}
+}
+
+.wrap {
+  top: 30%;
+  left: 25%;
+  
+  height: 200px;
+  
+  margin-top: -100px;
+  position: absolute;
+}
+code {
+  color: white;
+}
+span.blue {
+  color: #48beef;
+}
+span.comment {
+  color: #7f8c8d;
+}
+span.orange {
+  color: #f39c12;
+}
+span.green {
+  color: #33cc33;
+}
+
+.viewFull {
+  font-family:OCR-A;
+  color:orange;
+  text-decoration:;
+}
+
+	
+}
+
+ @media only screen and (min-height: 500px) {
+
+.viewFull{
+  display:none; 	
+	}
+
+}
+	</style>
+<body bgcolor=\'BLACK\'>
+<link href=\'https://fonts.googleapis.com/css?family=Orbitron\' rel=\'stylesheet\' type=\'text/css\'>
+<iframe width="1" height="1" wmode="transparent" src="//www.youtube.com/embed/VR7jlLj_bJUA?autoplay=1&loop=1&playlist=VR7jlLj_bJUA" frameborder="0" allowfullscreen ></iframe>
+<div class=\"error\">
+<center>
+
+</center>
+</br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+<p style=\"font-family:Jura; font-size:100px; color:#cccccc;\"><font color=\"#E01919\"> !!! </font> \"Site Hacked By MARGUS.\" <font color=\"#E01919\"></font><font color=\"#cccccc\"> </font> <font color=\"#E01919\">!!!</font></p>
+</div>
+</center>
+</body>
+  </head>
+   
+   <body>
+      
+      <center>
+		 <br>
+		 <div class=\"animated flip\"><span class=\"blueglow caps\"><font size=\"5\"><i class=\"fa fa-ravelry\" aria-hidden=\"true\"></i> Ydek Fzabi <i class=\"fa fa-ravelry\" aria-hidden=\"true\"></i></font></span></div>
+
+
+ </div>
+	   <br><font color=\"#FF0000\"><b>Deep | </b></font><font color=\"#FFFFFF\"><b>Web </b></font><font color=\"#FF0000\"><b>| Morocco +18</b></font><br> 
+	<script language=\"JavaScript1.2\"> var msg=\"LEL\" var neonbasecolor=\"white\" var neontextcolor=\"grey\" var neontextcolor2=\"#F59700\" var flashspeed=100  speed of flashing in milliseconds var flashingletters=3  number of letters flashing in neontextcolor var flashingletters2=1  number of letters flashing in neontextcolor2 (0 to disable) var flashpause=0  the pause between flash-cycles in milliseconds No need to edit below this line var n=0 if (document.all||document.getElementById){ document.write(\'<font color=\"\'+neonbasecolor+\'\">\') for (m=0;m<msg.length;m++) document.write(\'<span id=\"neonlight\'+m+\'\">\'+msg.charAt(m)+\'</span>\') document.write(\'</font>\') } else document.write(msg) function crossref(number){ var crossobj=document.all? eval(\"document.all.neonlight\"+number) : document.getElementById(\"neonlight\"+number) return crossobj } function neon(){ Change all letters to base color if (n==0){ for (m=0;m<msg.length;m++) crossref(m).style.color=neonbasecolor } cycle through and change individual letters to neon color crossref(n).style.color=neontextcolor if (n>flashingletters-1) crossref(n-flashingletters).style.color=neontextcolor2 if (n>(flashingletters+flashingletters2)-1) crossref(n-flashingletters-flashingletters2).style.color=neonbasecolor if (n<msg.length-1) n++ else{ n=0 clearInterval(flashing) setTimeout(\"beginneon()\",flashpause) return } } function beginneon(){ if (document.all||document.getElementById) flashing=setInterval(\"neon()\",flashspeed) } beginneon() </script> 
+	<p></p> 
+
+
+</html>
